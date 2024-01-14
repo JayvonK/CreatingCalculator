@@ -1,3 +1,5 @@
+
+
 button {
     width: 100px;
     height: 100px;
@@ -7,5 +9,5 @@ button {
     cursor: pointer;
     font-size: 3rem;
     color: white;
-    
+    font-weight: bold;
 }
